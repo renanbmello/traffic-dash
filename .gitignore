@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+data/raw/videos/
+data/processed/
+models/yolov8/
+models/custom_models/
